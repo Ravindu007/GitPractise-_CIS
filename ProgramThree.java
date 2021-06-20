@@ -11,7 +11,9 @@ public class ProgramThree {
         n1 = n2;
         n2 = temp;
         System.out.println("after swapping n1 = " + n1 + " and n2 = " + n2);
-		
-		System.out.println("Hello from past");
+	    
+	 System.out.println("Hello from past");
+	    
+	 System.out.println("Hello from branch");   
     }
 }
